@@ -11,16 +11,7 @@ h1 {
   text-align: center;
   margin: 25px;
 }
-/*p {
-  border: 1px solid black;
-  background-color: #A52A2A;
-  width: 90%;
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
-  font-family: Helvetica;
-  color: white;
-}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
@@ -42,8 +33,8 @@ h1 {
 	position: absolute;
 	top: 0;
 	right: 0;
-    font-size: 18px;
-    background-color: #FFC0CB;	
+        font-size: 18px;
+        background-color: #FFC0CB;	
 	text-align: center;
 	padding: 5px;
 	border: 1px solid black;
@@ -59,10 +50,7 @@ h1 {
     float: left;
     height: auto;
   }
-  .textm {
-	margin-left: 0px;
-	margin-right: 0px;
-	}
+ 
   .col-lg-1 {
     width: 8.33%;
   }
@@ -106,10 +94,7 @@ h1 {
     float: left;
 
   }
-  .textm {
-	margin-left: 0px;
-
-	}
+ 
   .col-md-1 {
     width: 8.33%;
   }
